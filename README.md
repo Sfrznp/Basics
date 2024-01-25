@@ -1,2 +1,3 @@
 # CS6704 SE Basics Workshop
-Hello!
+Sahar Farzanehpour
+Hello GitHub!
