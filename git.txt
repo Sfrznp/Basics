@@ -1,0 +1,8 @@
+1) Junio C Hamano <gitster@pobox.com>
+2) 12
+3) 3 blobs, 4 trees, 5 commits
+4) Update German translation for Git v2.31.0. This shows that
+   they were updating the german translation version for git.
+5) 2.31.1.txt
+6) 7 branches
+7) 
