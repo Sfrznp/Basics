@@ -1,0 +1,11 @@
+/Users/saharii/Desktop/SE/SEAdv/workshopOne
+Basics
+Roman.py
+fizzbuzz.py
+git.txt
+githubapi-get.sh
+githubapi-get_json.sh
+ids.json
+path.txt
+scripts.txt
+ssh_urls.json
