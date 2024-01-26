@@ -1,0 +1,8 @@
+
+1)  ./githubapi-get.sh $GITHUBTOKEN /users/Sfrznp/repos | grep '"ssh_url":' > ssh_urls.json
+
+This command will list all the ssh urls to access or clone the repositories and being outputted in a json file.
+
+2) ./githubapi-get.sh $GITHUBTOKEN /users/Sfrznp/repos | grep '"id":' > ids.json 
+
+This command is used to list the ids of the repositories and being outputted in a json file.
